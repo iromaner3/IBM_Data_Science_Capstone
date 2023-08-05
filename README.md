@@ -13,3 +13,4 @@ This capstone course will summarize and test the knowledge learned for all of th
 6. Create dashboards and present final results through a Powerpoint presentation
 
 ## Easy Access to Jupyter Notebooks
+Access the completed Jupyter notebooks through the links below:
