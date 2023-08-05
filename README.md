@@ -20,3 +20,5 @@ Access the completed Jupyter notebooks through the links below:
 [Week 1 Lab 2 - Web Scraping](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/a0698472b7530e8a7e190d6fbe657df3bfe36871/Notebooks/Week%201%20Lab%202%20-%20Web%20Scraping.ipynb)
 
 [Week 1 Lab 3 - Data Wrangling](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/a0aa62223cefc859e803001fd322a2a0d5a4b0e6/Notebooks/Week%201%20Lab%203%20-%20Data%20Wrangling.ipynb) 
+
+[Week 2 Lab 1 - Exploratory Data Analysis (EDA) with SQL]()
