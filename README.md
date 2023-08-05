@@ -17,6 +17,6 @@ Access the completed Jupyter notebooks through the links below:
 
 [Week 1 Lab 1 - Data Collection Through API](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/a4122ff8e308caa4d0e717d47c94de03f9eea015/Notebooks/Week%201%20Lab%201%20-%20Data%20Collection%20through%20API.ipynb)
 
-[Week 1 Lab 2 - Web Scraping]()
+[Week 1 Lab 2 - Web Scraping](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/a0698472b7530e8a7e190d6fbe657df3bfe36871/Notebooks/Week%201%20Lab%202%20-%20Web%20Scraping.ipynb)
 
 [Week 1 Lab 3 - Data Wrangling]() 
