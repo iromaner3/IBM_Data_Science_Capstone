@@ -8,7 +8,7 @@ This capstone course will summarize and test the knowledge learned for all of th
 1. Collect data from various sources, either through API or Web Scraping
 2. Perform data wrangling to improve data quality 
 3. Utilize _SQL_ to get information from the processed data
-4. Perform exploratory data analysis (EDA) to see attribute relationships
+4. Perform exploratory data analysis (EDA) to visualize data and see attribute relationships
 5. Create a Machine Learning (ML) model predicting the success of a launch
 6. Create dashboards and present final results through a Powerpoint presentation
 
