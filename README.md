@@ -11,3 +11,5 @@ This capstone course will summarize and test the knowledge learned for all of th
 4. Perform exploratory data analysis (EDA) to see attribute relationships
 5. Create a Machine Learning (ML) model predicting the success of a launch
 6. Create dashboards and present final results through a Powerpoint presentation
+
+## Easy Access to Jupyter Notebooks
