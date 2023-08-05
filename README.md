@@ -14,3 +14,5 @@ This capstone course will summarize and test the knowledge learned for all of th
 
 ## Easy Access to Jupyter Notebooks
 Access the completed Jupyter notebooks through the links below:
+
+[Week 1 Lab 1 - Data Collection Through API]<>
