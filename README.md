@@ -30,3 +30,6 @@ Access the completed Jupyter notebooks through the links below:
 [Week 3 Lab 2 - Interactive Visual Analytics using Plotly](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/3feadca845970ccf1cfe990a707c4608b4e25ff9/Notebooks/Week%203%20Lab%202%20-%20Interactive%20Visual%20Analytics%20using%20Plotly.py)
 
 [Week 4 Lab 1 - Machine Learning - Predictive Analysis (Classification)](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/3feadca845970ccf1cfe990a707c4608b4e25ff9/Notebooks/Week%204%20Lab%201%20-%20Machine%20Learning%20-%20Predictive%20Analysis%20(Classification).ipynb)
+
+### Author
+Ian Christopher Roman
