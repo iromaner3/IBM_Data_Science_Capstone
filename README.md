@@ -23,3 +23,10 @@ Access the completed Jupyter notebooks through the links below:
 
 [Week 2 Lab 1 - Exploratory Data Analysis (EDA) with SQL](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/374ee8db3e565d5c802fcd9645186a8de209c50b/Notebooks/Week%202%20Lab%201%20-%20Exploratory%20Data%20Analysis%20(EDA)%20with%20SQL.ipynb)
 
+[Week 2 Lab 2 - Exploratory Data Analysis (EDA) with Pandas and Matplotlib](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/3feadca845970ccf1cfe990a707c4608b4e25ff9/Notebooks/Week%202%20Lab%202%20-%20Exploratory%20Data%20Analysis%20(EDA)%20with%20Pandas%20and%20Matlotlib.ipynb)
+
+[Week 3 Lab 1 - Interactive Visual Analytics using Folium](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/3feadca845970ccf1cfe990a707c4608b4e25ff9/Notebooks/Week%203%20Lab%201%20-%20Interactive%20Visual%20Analytics%20using%20Folium.ipynb)
+
+[Week 3 Lab 2 - Interactive Visual Analytics using Plotly](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/3feadca845970ccf1cfe990a707c4608b4e25ff9/Notebooks/Week%203%20Lab%202%20-%20Interactive%20Visual%20Analytics%20using%20Plotly.py)
+
+[Week 4 Lab 1 - Machine Learning - Predictive Analysis (Classification)](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/3feadca845970ccf1cfe990a707c4608b4e25ff9/Notebooks/Week%204%20Lab%201%20-%20Machine%20Learning%20-%20Predictive%20Analysis%20(Classification).ipynb)
