@@ -31,5 +31,5 @@ Access the completed Jupyter notebooks through the links below:
 
 [Week 4 Lab 1 - Machine Learning - Predictive Analysis (Classification)](https://github.com/iromaner3/IBM_Data_Science_Capstone/blob/3feadca845970ccf1cfe990a707c4608b4e25ff9/Notebooks/Week%204%20Lab%201%20-%20Machine%20Learning%20-%20Predictive%20Analysis%20(Classification).ipynb)
 
-### Author
+## Author
 Ian Christopher Roman
