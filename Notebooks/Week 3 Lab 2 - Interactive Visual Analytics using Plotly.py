@@ -45,8 +45,7 @@ app.layout = html.Div(children=[html.H1('SpaceX Launch Records Dashboard',
                                 dcc.RangeSlider(id='payload-slider',
                                                 min=0,max=10000,step=1000,
                                                 value=[min_payload,max_payload],
-                                                marks={0: '0', 2500:'2500',5000:'5000',
-                                                7500:'7500', 10000: '10000'}),
+                                                ),
                                 # TASK 4: Add a scatter chart to show the correlation between payload and launch success
                                 html.Div(dcc.Graph(id='success-payload-scatter-chart')),
                                 ])
@@ -63,7 +62,7 @@ def build_graph(site_dropdown):
         return piechart
     else:
         specific_df = spacex_df.loc[spacex_df['Launch Site'] == site_dropdown]
-        piecjart = px.pie(data_frame=specific_df,names='class',title='Total Launch for a Specific Site')
+        piechart = px.pie(data_frame=specific_df,names='class',title='Total Launch for a Specific Site')
         return piechart
 
 # TASK 4:
